@@ -7,24 +7,22 @@
       "name": "Ben Howard(buttonpusher#8906)"
     }
   ],
-  "version": "2.0.0",
+  "version": "2.0.1",
   "compatibility": {
     "minimum": "10.276",
-    "verified": "10.285"
+    "verified": "11.299"
   },
   "flags": {
   },
   "url": "https://github.com/buttonpushertv/lettertokens",
-  "manifest": "https://foundryvtt.s3-us-west-2.amazonaws.com/modules/LetterTokens/module.json",
+  "manifest": "https://raw.githubusercontent.com/lovethebomb/lettertokens/foundry-v11/module.json",
   "download": "https://github.com/buttonpushertv/lettertokens/archive/1.0.2.zip",
   "packs": [
     {
       "name": "JournalEntry",
       "label": "LetterTokens-README",
       "path": "packs/Letter_Tokens.db",
-      "entity": "JournalEntry",
-      "module": "LetterTokens",
-      "private": false
+      "type": "JournalEntry"
     }
   ],
   "protected": false
