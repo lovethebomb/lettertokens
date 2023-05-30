@@ -7,16 +7,19 @@
       "name": "Ben Howard(buttonpusher#8906)"
     }
   ],
-  "version": "2.0.2",
+  "url": "https://github.com/lovethebomb/lettertokens",
+  "manifest": "https://raw.githubusercontent.com/lovethebomb/lettertokens/releases/latest/download/module.json",
+  "download": "https://github.com/lovethebomb/lettertokens/releases/download/2.1.0/module.zip",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "10",
+  "version": "2.1.0",
   "compatibility": {
     "minimum": "10.276",
     "verified": "11.299"
   },
   "flags": {
   },
-  "url": "https://github.com/buttonpushertv/lettertokens",
-  "manifest": "https://raw.githubusercontent.com/lovethebomb/lettertokens/foundry-v11/module.json",
-  "download": "https://github.com/lovethebomb/lettertokens/archive/refs/tags/v2.0.2.zip",
+
   "packs": [
     {
       "name": "JournalEntry",
